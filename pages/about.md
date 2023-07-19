@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img src="/assets/img/NickDanielsProfilePic_200x200.jpg" alt="Nick Daniels" style="float:right;">
+<img src="/assets/img/NickDanielsProfilePic_200x200.jpg" alt="Nick Daniels" style="float:right;padding:1em;">
 
 Hello! This is a blog about work stuff, mostly.
 
@@ -26,7 +26,7 @@ Previously, I:
 
 ## other websites
 
-My drawings and comics are online at [The Triangle Sky](http://mrndaniels.wordpress.com/)
+My drawings and comics are online at [The Triangle Sky](http://thetrianglesky.com/)
 
 Between 2010 and 2017 I posted on [my Wordpress.com blog](https://mrndaniels.wordpress.com/).
 
