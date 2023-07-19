@@ -4,38 +4,37 @@ title: about
 permalink: /about/
 ---
 
-Hi, I'm Nick and this is my world-wide website.
+<img src="/assets/img/NickDanielsProfilePic_200x200.jpg" alt="Nick Daniels" style="float:right;">
 
-## how to hear about updates to this site
+Hello! This is a blog about work stuff, mostly.
 
-[Follow me on Twitter](https://twitter.com/nickdaniels)
-
-[RSS](http://www.thetrianglesky.com/feed.xml)
-
-## previous work
-
-Between 2006 and 2011, I did a webcomic called [Carl Garbanzo](/carl-garbanzo).
-
-I contributed comics to Issues 1, 3 and 4 of the [Comix Reader](http://highlowcomics.blogspot.com/2014/07/brit-comics-comix-reader.html).
-
-In 2012 I did the album cover for [Western Skies, Eastern Dreams](https://xalamproject.bandcamp.com/album/western-skies-eastern-dreams) by Brandon Terzic and Ravi Padmanabha.
-
-I've also made three self-published comics:
-
--   *Sizemo and Satchmo versus Humanity (2004)*
--   *The Passionate Intensity of Neil Armstrong (2005)*
--   *Tales from the Cosmic Mountain (2005)*
-
-## re-use
-
-If you'd like to use any of these pictures, send me an email.
+I currently work as a Senior Content Designer at the University of Edinburgh.
 
 ## other projects
 
-[Blog about work stuff: education, technology and design](http://mrndaniels.wordpress.com/)
+Previously, I:
 
-[Soundcloud](https://soundcloud.com/nickdaniels)
+- worked in digital education teams at the University of Edinburgh (first at the School of Philosophy, Psychology and Language Sciences and later at the Vet School)
+- studied on Edinburgh’s [MSc Digital Education](https://www.de.ed.ac.uk/mscde).
+- taught English / Study Skills and managed a Moodle VLE at the [University of Brighton’s International College](https://www.kaplanpathways.com/where-to-study/uk-universities/university-of-brighton/).
+- taught English as an Additional Language at [Lancing College](https://www.lancingcollege.co.uk/), West Sussex.
+- studied on the Open University’s MA in Online and Distance Education.
+- taught Religious Studies at various schools in Sussex.
+- taught English in Sussex and Spain.
+- studied Philosophy at [UCL](https://www.ucl.ac.uk/).
 
-## contact
 
-Email: daniels.nick@gmail.com
+## other websites
+
+My drawings and comics are online at [The Triangle Sky](http://mrndaniels.wordpress.com/)
+
+Between 2010 and 2017 I posted on [my Wordpress.com blog](https://mrndaniels.wordpress.com/).
+
+
+## social media
+
+[Twitter](https://twitter.com/nickdaniels) / [LinkedIn](https://www.linkedin.com/in/nick-daniels123/) / [SoundCloud](https://soundcloud.com/nickdaniels)
+
+## email
+
+daniels.nick@gmail.com
